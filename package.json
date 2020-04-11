@@ -1,0 +1,23 @@
+{
+  "name": "liqpay-sdk",
+  "version": "1.0.0",
+  "description": "sdk-nodejs =======",
+  "main": "liqpay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vyatsyk/liqpay-sdk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vyatsyk/liqpay-sdk/issues"
+  },
+  "homepage": "https://github.com/vyatsyk/liqpay-sdk#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "request": "^2.88.2"
+  }
+}
